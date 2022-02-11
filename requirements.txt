@@ -1,0 +1,5 @@
+gspread
+gspread-pandas
+pandas
+requests
+requests-cache
